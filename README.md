@@ -8,7 +8,6 @@
 * displaying the ranking of entries on the home 
 * MySQL database stores all data about users, discoveries and votes
 
-
 # Technologies
 
 - HTML, CSS, Bootstrap
